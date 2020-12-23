@@ -1,0 +1,1 @@
+}ßv_<?php exit; ?>a:1:{s:7:"content";a:6:{s:25:"_customize_changeset_uuid";a:1:{i:0;s:36:"b9222fcb-28ea-4d2f-b44c-61e420ddc672";}s:10:"_edit_lock";a:1:{i:0;s:12:"1601564512:1";}s:20:"_elementor_edit_mode";a:1:{i:0;s:7:"builder";}s:24:"_elementor_template_type";a:1:{i:0;s:7:"wp-page";}s:18:"_elementor_version";a:1:{i:0;s:6:"3.0.10";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}}}
